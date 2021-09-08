@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "first_name": "Cindi",
+  "last_name": "Papaminas",
+  "email": "cpapaminas0@51.la",
+  "gender": "Male",
+  "ip_address": "36.127.62.64"
+}, {
+  "id": 2,
+  "first_name": "Jedediah",
+  "last_name": "Greated",
+  "email": "jgreated1@msu.edu",
+  "gender": "Agender",
+  "ip_address": "189.235.183.253"
+}, {
+  "id": 3,
+  "first_name": "Bliss",
+  "last_name": "Mottinelli",
+  "email": "bmottinelli2@godaddy.com",
+  "gender": "Polygender",
+  "ip_address": "3.68.184.199"
+}, {
+  "id": 4,
+  "first_name": "Kenyon",
+  "last_name": "Germaine",
+  "email": "kgermaine3@youtube.com",
+  "gender": "Agender",
+  "ip_address": "61.137.188.78"
+}, {
+  "id": 5,
+  "first_name": "Griswold",
+  "last_name": "Lowers",
+  "email": "glowers4@studiopress.com",
+  "gender": "Non-binary",
+  "ip_address": "166.169.232.26"
+}, {
+  "id": 6,
+  "first_name": "Hetty",
+  "last_name": "Czajkowska",
+  "email": "hczajkowska5@dion.ne.jp",
+  "gender": "Polygender",
+  "ip_address": "222.1.78.253"
+}, {
+  "id": 7,
+  "first_name": "Ingar",
+  "last_name": "Puddle",
+  "email": "ipuddle6@stumbleupon.com",
+  "gender": "Genderqueer",
+  "ip_address": "100.164.236.41"
+}, {
+  "id": 8,
+  "first_name": "Nicol",
+  "last_name": "Dawson",
+  "email": "ndawson7@biglobe.ne.jp",
+  "gender": "Polygender",
+  "ip_address": "30.135.150.49"
+}, {
+  "id": 9,
+  "first_name": "Marlin",
+  "last_name": "McLuckie",
+  "email": "mmcluckie8@youku.com",
+  "gender": "Genderqueer",
+  "ip_address": "213.166.76.233"
+}, {
+  "id": 10,
+  "first_name": "Wilma",
+  "last_name": "Hurdwell",
+  "email": "whurdwell9@free.fr",
+  "gender": "Bigender",
+  "ip_address": "178.24.117.176"
+}]
